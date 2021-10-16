@@ -6,8 +6,8 @@
 <!-- ## I'm a Husband, Father, Developer, and Teacher!! -->
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning deep learning 
-- 👨‍🎓 I am working on a research project.
+- 🌱 I’m currently learning ML/DL  
+<!-- - 👨‍🎓 I am also working on a research project. -->
 - 🏙 I work at Tata Consultancy Services as a Graduate Engineer Trainee
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
