@@ -7,9 +7,11 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning deep learning 
+- 👨‍🎓 I am working on a research project.
+- 🏙 I work at Tata Consultancy Services as a Graduate Engineer Trainee
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
-- ⚡ Fun fact: I love to draw, play read and martial arts
+- ⚡ Fun fact: I love to draw anatomical figures, read and martial arts.
 
 ### Connect with me:
 
@@ -24,28 +26,28 @@
 ### Languages ,Frameworks and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Ubuntu" width="30px" height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="left" alt="Windows 10" width="30px" height="30px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" alt="Ubuntu" width="40px" height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img align="left" alt="Windows 10" width="40px" height="30px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pytorch" width="26px" height="26px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img align="left" alt="Numpy" width="26px" height="26px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img align="left" alt="Pandas" width="26px" height="26px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img align="left" alt="Plotly" width="26px" height="26px" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-<img align="left" alt="Scikit-learn" width="26px" height="26px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img align="left" alt="SciPy" width="26px" height="26px" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-<img align="left" alt="C++" width="26px" height="26px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" alt="Pytorch" width="40px" height="30px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img align="left" alt="Numpy" width="40px" height="30px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img align="left" alt="Pandas" width="40px" height="30px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="left" alt="Plotly" width="40px" height="30px" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+<img align="left" alt="Scikit-learn" width="40px" height="30px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img align="left" alt="SciPy" width="40px" height="30px" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+<img align="left" alt="C++" width="40px" height="30px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
 
----
+<!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -59,7 +61,7 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -73,7 +75,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -86,7 +88,7 @@
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
 <!--END_SECTION:activity-->
 
-</details> -->
+<!-- </details> --> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
