@@ -11,7 +11,7 @@
 - 🏙 I work at Tata Consultancy Services as a Graduate Engineer Trainee
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
-- ⚡ Fun fact: I love to draw anatomical figures, read and martial arts.
+- ⚡ Fun fact: I love to draw, read and martial arts.
 
 ### Connect with me:
 
